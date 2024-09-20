@@ -1,4 +1,4 @@
 # demo
 this is my github repository.
 <br>
-Author ~ Chaitanya Trib
+Author ~ Chaitanya Tribhuvan (Mercury)
